@@ -5,7 +5,11 @@ This project is a dynamic microphone utilizing a cloned SM57 capsule. The circui
 ![Preview](preview.jpg?raw=true "preview")
 
 
+Capsule which I used :
+https://s.click.aliexpress.com/e/_omLsn6Z
 
+Microphone Foam
+https://s.click.aliexpress.com/e/_oEmwhu5
 
 ## License
 
